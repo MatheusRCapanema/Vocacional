@@ -1,0 +1,302 @@
+[
+  {
+    "id": "R1",
+    "text": "Trabalhar com ferramentas, máquinas ou equipamentos mecânicos.",
+    "dimension": "R"
+  },
+  {
+    "id": "R2",
+    "text": "Consertar aparelhos elétricos ou eletrônicos.",
+    "dimension": "R"
+  },
+  {
+    "id": "R3",
+    "text": "Construir ou reformar móveis e objetos de madeira.",
+    "dimension": "R"
+  },
+  {
+    "id": "R4",
+    "text": "Montar e desmontar peças de computadores ou motores.",
+    "dimension": "R"
+  },
+  {
+    "id": "R5",
+    "text": "Trabalhar ao ar livre, em contato com a natureza ou agricultura.",
+    "dimension": "R"
+  },
+  {
+    "id": "R6",
+    "text": "Operar máquinas pesadas ou veículos de transporte.",
+    "dimension": "R"
+  },
+  {
+    "id": "R7",
+    "text": "Instalar ou reparar encanamentos e sistemas hidráulicos.",
+    "dimension": "R"
+  },
+  {
+    "id": "R8",
+    "text": "Montar estruturas eletrônicas ou robóticas.",
+    "dimension": "R"
+  },
+  {
+    "id": "R9",
+    "text": "Cuidar de animais ou trabalhar em fazendas.",
+    "dimension": "R"
+  },
+  {
+    "id": "R10",
+    "text": "Operar ferramentas de precisão ou industriais.",
+    "dimension": "R"
+  },
+  {
+    "id": "I1",
+    "text": "Ler livros ou artigos científicos e técnicos.",
+    "dimension": "I"
+  },
+  {
+    "id": "I2",
+    "text": "Resolver problemas matemáticos ou lógicos complexos.",
+    "dimension": "I"
+  },
+  {
+    "id": "I3",
+    "text": "Fazer experiências em laboratório.",
+    "dimension": "I"
+  },
+  {
+    "id": "I4",
+    "text": "Investigar a causa de fenômenos naturais ou sociais.",
+    "dimension": "I"
+  },
+  {
+    "id": "I5",
+    "text": "Analisar dados estatísticos para descobrir tendências.",
+    "dimension": "I"
+  },
+  {
+    "id": "I6",
+    "text": "Estudar biologia, química, física ou astronomia.",
+    "dimension": "I"
+  },
+  {
+    "id": "I7",
+    "text": "Desenvolver programas de computador ou algoritmos.",
+    "dimension": "I"
+  },
+  {
+    "id": "I8",
+    "text": "Examinar amostras de sangue ou tecidos com microscópio.",
+    "dimension": "I"
+  },
+  {
+    "id": "I9",
+    "text": "Investigar crimes ou problemas legais complexos.",
+    "dimension": "I"
+  },
+  {
+    "id": "I10",
+    "text": "Estudar a estrutura geológica da terra ou oceanos.",
+    "dimension": "I"
+  },
+  {
+    "id": "A1",
+    "text": "Desenhar, pintar ou fazer esculturas.",
+    "dimension": "A"
+  },
+  {
+    "id": "A2",
+    "text": "Tocar um instrumento musical ou cantar.",
+    "dimension": "A"
+  },
+  {
+    "id": "A3",
+    "text": "Escrever histórias, poesias ou roteiros.",
+    "dimension": "A"
+  },
+  {
+    "id": "A4",
+    "text": "Atuar em peças de teatro ou filmes.",
+    "dimension": "A"
+  },
+  {
+    "id": "A5",
+    "text": "Criar designs gráficos, logotipos ou ilustrações.",
+    "dimension": "A"
+  },
+  {
+    "id": "A6",
+    "text": "Decorar ambientes ou planejar o visual de roupas/moda.",
+    "dimension": "A"
+  },
+  {
+    "id": "A7",
+    "text": "Dirigir peças de teatro ou produções audiovisuais.",
+    "dimension": "A"
+  },
+  {
+    "id": "A8",
+    "text": "Tirar fotografias artísticas ou profissionais.",
+    "dimension": "A"
+  },
+  {
+    "id": "A9",
+    "text": "Criar coreografias ou dançar profissionalmente.",
+    "dimension": "A"
+  },
+  {
+    "id": "A10",
+    "text": "Editar vídeos ou compor trilhas sonoras.",
+    "dimension": "A"
+  },
+  {
+    "id": "S1",
+    "text": "Ensinar ou treinar outras pessoas.",
+    "dimension": "S"
+  },
+  {
+    "id": "S2",
+    "text": "Cuidar de pessoas doentes ou idosas.",
+    "dimension": "S"
+  },
+  {
+    "id": "S3",
+    "text": "Ajudar pessoas a resolverem seus problemas pessoais.",
+    "dimension": "S"
+  },
+  {
+    "id": "S4",
+    "text": "Trabalhar em projetos voluntários ou comunitários.",
+    "dimension": "S"
+  },
+  {
+    "id": "S5",
+    "text": "Liderar discussões em grupo para ajudar os participantes.",
+    "dimension": "S"
+  },
+  {
+    "id": "S6",
+    "text": "Prestar atendimento ao cliente ou suporte emocional.",
+    "dimension": "S"
+  },
+  {
+    "id": "S7",
+    "text": "Ajudar pessoas com deficiência a desenvolver habilidades.",
+    "dimension": "S"
+  },
+  {
+    "id": "S8",
+    "text": "Organizar atividades recreativas para crianças ou idosos.",
+    "dimension": "S"
+  },
+  {
+    "id": "S9",
+    "text": "Aconselhar pessoas sobre escolhas de carreira ou educação.",
+    "dimension": "S"
+  },
+  {
+    "id": "S10",
+    "text": "Trabalhar em hospitais ou clínicas ajudando pacientes.",
+    "dimension": "S"
+  },
+  {
+    "id": "E1",
+    "text": "Liderar uma equipe para alcançar metas.",
+    "dimension": "E"
+  },
+  {
+    "id": "E2",
+    "text": "Vender produtos ou serviços para clientes.",
+    "dimension": "E"
+  },
+  {
+    "id": "E3",
+    "text": "Gerenciar o próprio negócio ou empresa.",
+    "dimension": "E"
+  },
+  {
+    "id": "E4",
+    "text": "Fazer discursos ou apresentações para convencer pessoas.",
+    "dimension": "E"
+  },
+  {
+    "id": "E5",
+    "text": "Negociar contratos ou acordos comerciais.",
+    "dimension": "E"
+  },
+  {
+    "id": "E6",
+    "text": "Tomar decisões arriscadas para obter lucro.",
+    "dimension": "E"
+  },
+  {
+    "id": "E7",
+    "text": "Gerenciar campanhas de marketing ou publicidade.",
+    "dimension": "E"
+  },
+  {
+    "id": "E8",
+    "text": "Representar uma empresa ou organização em eventos.",
+    "dimension": "E"
+  },
+  {
+    "id": "E9",
+    "text": "Supervisionar o trabalho de outros funcionários.",
+    "dimension": "E"
+  },
+  {
+    "id": "E10",
+    "text": "Planejar estratégias para aumentar vendas ou lucros.",
+    "dimension": "E"
+  },
+  {
+    "id": "C1",
+    "text": "Manter registros financeiros ou contábeis organizados.",
+    "dimension": "C"
+  },
+  {
+    "id": "C2",
+    "text": "Seguir procedimentos e rotinas claramente definidos.",
+    "dimension": "C"
+  },
+  {
+    "id": "C3",
+    "text": "Organizar arquivos, documentos e dados em sistemas.",
+    "dimension": "C"
+  },
+  {
+    "id": "C4",
+    "text": "Verificar erros em relatórios ou cálculos.",
+    "dimension": "C"
+  },
+  {
+    "id": "C5",
+    "text": "Trabalhar com planilhas e processamento de dados.",
+    "dimension": "C"
+  },
+  {
+    "id": "C6",
+    "text": "Fazer inventário de estoque ou suprimentos.",
+    "dimension": "C"
+  },
+  {
+    "id": "C7",
+    "text": "Calcular impostos, taxas ou salários.",
+    "dimension": "C"
+  },
+  {
+    "id": "C8",
+    "text": "Inspecionar produtos para garantir padrões de qualidade.",
+    "dimension": "C"
+  },
+  {
+    "id": "C9",
+    "text": "Agendar compromissos e gerenciar calendários.",
+    "dimension": "C"
+  },
+  {
+    "id": "C10",
+    "text": "Processar pedidos de clientes e emitir notas fiscais.",
+    "dimension": "C"
+  }
+]

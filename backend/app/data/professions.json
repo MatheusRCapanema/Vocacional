@@ -1,0 +1,158 @@
+[
+    {
+        "cbo": "2124-05",
+        "title": "Analista de Desenvolvimento de Sistemas",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 2,
+            "S": 2,
+            "E": 3,
+            "C": 4
+        },
+        "description": "Desenvolve, implanta e mantém sistemas informatizados."
+    },
+    {
+        "cbo": "2251-25",
+        "title": "Médico Clínico",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Realiza consultas e atendimentos médicos, trata pacientes e implementa ações de prevenção."
+    },
+    {
+        "cbo": "2611-10",
+        "title": "Jornalista",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 5,
+            "S": 4,
+            "E": 3,
+            "C": 1
+        },
+        "description": "Recolhe, apura e prepara informações para divulgação em meios de comunicação."
+    },
+    {
+        "cbo": "2313-15",
+        "title": "Professor de Matemática",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 2,
+            "S": 5,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Ministra aulas de matemática para ensino fundamental e médio."
+    },
+    {
+        "cbo": "1421-05",
+        "title": "Gerente Administrativo",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 3,
+            "E": 5,
+            "C": 4
+        },
+        "description": "Planeja, organiza e controla as atividades administrativas da empresa."
+    },
+    {
+        "cbo": "7152-10",
+        "title": "Pedreiro",
+        "riasec_scores": {
+            "R": 5,
+            "I": 2,
+            "A": 2,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Executa trabalhos de alvenaria, concreto e outros materiais de construção."
+    },
+    {
+        "cbo": "2624-05",
+        "title": "Designer Gráfico",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 5,
+            "S": 2,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Cria projetos de comunicação visual, novos produtos e embalagens."
+    },
+    {
+        "cbo": "2030-05",
+        "title": "Biólogo",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Estuda seres vivos, desenvolve pesquisas e aplica conhecimentos biológicos."
+    },
+    {
+        "cbo": "5152-15",
+        "title": "Auxiliar de Enfermagem",
+        "riasec_scores": {
+            "R": 3,
+            "I": 2,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Presta assistência ao paciente, atuando sob supervisão de enfermeiro."
+    },
+    {
+        "cbo": "4110-10",
+        "title": "Assistente Administrativo",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 2,
+            "E": 2,
+            "C": 5
+        },
+        "description": "Executa serviços de apoio nas áreas de recursos humanos, administração, finanças e logística."
+    },
+    {
+        "cbo": "2521-05",
+        "title": "Administrador",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 1,
+            "S": 3,
+            "E": 5,
+            "C": 4
+        },
+        "description": "Planeja, organiza, controla e assessora as organizações nas áreas de recursos humanos, patrimônio, materiais, informações, financeira, tecnológica, entre outras."
+    },
+    {
+        "cbo": "2410-05",
+        "title": "Advogado",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 2,
+            "S": 3,
+            "E": 5,
+            "C": 3
+        },
+        "description": "Postula em juízo ou fora dele, fazendo prova do direito e defendendo interesses."
+    }
+]

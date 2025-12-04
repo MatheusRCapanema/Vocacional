@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "adm",
+        "title": "Administração",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 3,
+            "E": 5,
+            "C": 4
+        },
+        "description": "Gerencia recursos e processos de organizações.",
+        "area": "Negócios"
+    },
+    {
+        "id": "dir",
+        "title": "Direito",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 2,
+            "S": 4,
+            "E": 5,
+            "C": 3
+        },
+        "description": "Estuda as normas jurídicas e sua aplicação na sociedade.",
+        "area": "Humanas"
+    },
+    {
+        "id": "med",
+        "title": "Medicina",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Investiga e trata doenças humanas.",
+        "area": "Saúde"
+    },
+    {
+        "id": "enf",
+        "title": "Enfermagem",
+        "riasec_scores": {
+            "R": 2,
+            "I": 3,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Cuidado e assistência a pacientes.",
+        "area": "Saúde"
+    },
+    {
+        "id": "psi",
+        "title": "Psicologia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 3,
+            "S": 5,
+            "E": 2,
+            "C": 1
+        },
+        "description": "Estuda o comportamento humano e processos mentais.",
+        "area": "Saúde/Humanas"
+    },
+    {
+        "id": "ped",
+        "title": "Pedagogia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 2,
+            "S": 5,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Processos de ensino e aprendizagem.",
+        "area": "Humanas"
+    },
+    {
+        "id": "cont",
+        "title": "Ciências Contábeis",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 3,
+            "C": 5
+        },
+        "description": "Gestão financeira e patrimonial.",
+        "area": "Negócios"
+    },
+    {
+        "id": "eng_civ",
+        "title": "Engenharia Civil",
+        "riasec_scores": {
+            "R": 4,
+            "I": 4,
+            "A": 2,
+            "S": 1,
+            "E": 3,
+            "C": 3
+        },
+        "description": "Projeta e executa obras e construções.",
+        "area": "Exatas"
+    },
+    {
+        "id": "arq",
+        "title": "Arquitetura e Urbanismo",
+        "riasec_scores": {
+            "R": 3,
+            "I": 4,
+            "A": 5,
+            "S": 3,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Planejamento de espaços e edificações.",
+        "area": "Exatas/Artes"
+    },
+    {
+        "id": "eng_prod",
+        "title": "Engenharia de Produção",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 1,
+            "S": 3,
+            "E": 5,
+            "C": 3
+        },
+        "description": "Otimização de processos produtivos e logísticos.",
+        "area": "Exatas/Negócios"
+    },
+    {
+        "id": "ti",
+        "title": "Análise e Desenv. de Sistemas",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 2,
+            "S": 2,
+            "E": 3,
+            "C": 4
+        },
+        "description": "Desenvolvimento de software e sistemas.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "ed_fis",
+        "title": "Educação Física",
+        "riasec_scores": {
+            "R": 4,
+            "I": 2,
+            "A": 2,
+            "S": 5,
+            "E": 3,
+            "C": 1
+        },
+        "description": "Promoção da saúde através do movimento.",
+        "area": "Saúde"
+    },
+    {
+        "id": "nut",
+        "title": "Nutrição",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Estudo da alimentação e seus efeitos no organismo.",
+        "area": "Saúde"
+    },
+    {
+        "id": "fisiot",
+        "title": "Fisioterapia",
+        "riasec_scores": {
+            "R": 3,
+            "I": 3,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Reabilitação física e motora.",
+        "area": "Saúde"
+    },
+    {
+        "id": "med_vet",
+        "title": "Medicina Veterinária",
+        "riasec_scores": {
+            "R": 4,
+            "I": 4,
+            "A": 1,
+            "S": 3,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Saúde e bem-estar animal.",
+        "area": "Saúde/Agrárias"
+    },
+    {
+        "id": "farm",
+        "title": "Farmácia",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 3,
+            "E": 2,
+            "C": 4
+        },
+        "description": "Produção e dispensação de medicamentos.",
+        "area": "Saúde"
+    },
+    {
+        "id": "odont",
+        "title": "Odontologia",
+        "riasec_scores": {
+            "R": 4,
+            "I": 4,
+            "A": 2,
+            "S": 4,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Saúde bucal e estética.",
+        "area": "Saúde"
+    },
+    {
+        "id": "biomed",
+        "title": "Biomedicina",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 3
+        },
+        "description": "Pesquisa e diagnóstico laboratorial.",
+        "area": "Saúde"
+    },
+    {
+        "id": "serv_soc",
+        "title": "Serviço Social",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Promoção de direitos e inclusão social.",
+        "area": "Humanas"
+    },
+    {
+        "id": "jor",
+        "title": "Jornalismo",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 5,
+            "S": 4,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Comunicação e informação.",
+        "area": "Comunicação"
+    },
+    {
+        "id": "pub",
+        "title": "Publicidade e Propaganda",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 5,
+            "S": 3,
+            "E": 4,
+            "C": 2
+        },
+        "description": "Estratégias criativas de comunicação.",
+        "area": "Comunicação"
+    },
+    {
+        "id": "design",
+        "title": "Design Gráfico",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 5,
+            "S": 2,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Comunicação visual e projetos estéticos.",
+        "area": "Artes"
+    },
+    {
+        "id": "eng_mec",
+        "title": "Engenharia Mecânica",
+        "riasec_scores": {
+            "R": 5,
+            "I": 4,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Máquinas, motores e sistemas mecânicos.",
+        "area": "Exatas"
+    },
+    {
+        "id": "eng_elet",
+        "title": "Engenharia Elétrica",
+        "riasec_scores": {
+            "R": 4,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Sistemas de energia e eletrônica.",
+        "area": "Exatas"
+    },
+    {
+        "id": "eng_comp",
+        "title": "Engenharia da Computação",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Hardware e software.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "cc",
+        "title": "Ciência da Computação",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 4
+        },
+        "description": "Teoria e desenvolvimento de computação.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "si",
+        "title": "Sistemas de Informação",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 1,
+            "S": 2,
+            "E": 3,
+            "C": 4
+        },
+        "description": "Gestão de tecnologia nas empresas.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "agro",
+        "title": "Agronomia",
+        "riasec_scores": {
+            "R": 5,
+            "I": 4,
+            "A": 1,
+            "S": 2,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Produção agrícola e manejo do solo.",
+        "area": "Agrárias"
+    },
+    {
+        "id": "bio",
+        "title": "Ciências Biológicas",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Estudo da vida e biodiversidade.",
+        "area": "Biológicas"
+    },
+    {
+        "id": "quim",
+        "title": "Química",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 1,
+            "C": 3
+        },
+        "description": "Estudo da matéria e suas transformações.",
+        "area": "Exatas"
+    },
+    {
+        "id": "fis",
+        "title": "Física",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Leis fundamentais da natureza.",
+        "area": "Exatas"
+    },
+    {
+        "id": "mat",
+        "title": "Matemática",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 3
+        },
+        "description": "Lógica, números e padrões.",
+        "area": "Exatas"
+    },
+    {
+        "id": "hist",
+        "title": "História",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 2,
+            "S": 3,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Estudo do passado e sociedade.",
+        "area": "Humanas"
+    },
+    {
+        "id": "geo",
+        "title": "Geografia",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Espaço geográfico e sociedade.",
+        "area": "Humanas/Exatas"
+    },
+    {
+        "id": "let",
+        "title": "Letras",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 4,
+            "S": 3,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Línguas, literatura e cultura.",
+        "area": "Humanas"
+    },
+    {
+        "id": "fil",
+        "title": "Filosofia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 3,
+            "S": 2,
+            "E": 1,
+            "C": 1
+        },
+        "description": "Questões fundamentais da existência.",
+        "area": "Humanas"
+    },
+    {
+        "id": "soc",
+        "title": "Ciências Sociais",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 2,
+            "S": 4,
+            "E": 2,
+            "C": 1
+        },
+        "description": "Estudo da sociedade e cultura.",
+        "area": "Humanas"
+    },
+    {
+        "id": "eco",
+        "title": "Economia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 4,
+            "C": 4
+        },
+        "description": "Produção e distribuição de riqueza.",
+        "area": "Negócios"
+    },
+    {
+        "id": "ri",
+        "title": "Relações Internacionais",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 2,
+            "S": 4,
+            "E": 5,
+            "C": 2
+        },
+        "description": "Política e relações globais.",
+        "area": "Humanas/Negócios"
+    },
+    {
+        "id": "tur",
+        "title": "Turismo",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 2,
+            "S": 5,
+            "E": 4,
+            "C": 3
+        },
+        "description": "Gestão de viagens e lazer.",
+        "area": "Humanas/Negócios"
+    },
+    {
+        "id": "gast",
+        "title": "Gastronomia",
+        "riasec_scores": {
+            "R": 4,
+            "I": 2,
+            "A": 5,
+            "S": 3,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Arte culinária e gestão de alimentos.",
+        "area": "Artes/Negócios"
+    },
+    {
+        "id": "moda",
+        "title": "Design de Moda",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 5,
+            "S": 2,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Criação e gestão de moda.",
+        "area": "Artes"
+    },
+    {
+        "id": "cin",
+        "title": "Cinema e Audiovisual",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 5,
+            "S": 2,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Produção de filmes e vídeos.",
+        "area": "Artes"
+    },
+    {
+        "id": "mus",
+        "title": "Música",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 5,
+            "S": 2,
+            "E": 2,
+            "C": 1
+        },
+        "description": "Performance e composição musical.",
+        "area": "Artes"
+    },
+    {
+        "id": "art_cen",
+        "title": "Artes Cênicas",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 5,
+            "S": 4,
+            "E": 2,
+            "C": 1
+        },
+        "description": "Teatro e performance.",
+        "area": "Artes"
+    },
+    {
+        "id": "log",
+        "title": "Logística",
+        "riasec_scores": {
+            "R": 3,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 4,
+            "C": 5
+        },
+        "description": "Gestão de cadeia de suprimentos.",
+        "area": "Negócios"
+    },
+    {
+        "id": "rh",
+        "title": "Gestão de RH",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 5,
+            "E": 4,
+            "C": 3
+        },
+        "description": "Gestão de pessoas.",
+        "area": "Negócios"
+    },
+    {
+        "id": "mkt_dig",
+        "title": "Marketing Digital",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 4,
+            "S": 3,
+            "E": 4,
+            "C": 3
+        },
+        "description": "Marketing em meios digitais.",
+        "area": "Negócios/Tecnologia"
+    },
+    {
+        "id": "com_ext",
+        "title": "Comércio Exterior",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 5,
+            "C": 4
+        },
+        "description": "Negócios internacionais.",
+        "area": "Negócios"
+    },
+    {
+        "id": "gest_fin",
+        "title": "Gestão Financeira",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 1,
+            "S": 1,
+            "E": 3,
+            "C": 5
+        },
+        "description": "Finanças corporativas.",
+        "area": "Negócios"
+    },
+    {
+        "id": "proc_ger",
+        "title": "Processos Gerenciais",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 2,
+            "E": 4,
+            "C": 5
+        },
+        "description": "Gestão de pequenos negócios.",
+        "area": "Negócios"
+    },
+    {
+        "id": "estet",
+        "title": "Estética e Cosmética",
+        "riasec_scores": {
+            "R": 3,
+            "I": 2,
+            "A": 4,
+            "S": 4,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Beleza e bem-estar.",
+        "area": "Saúde/Artes"
+    },
+    {
+        "id": "rad",
+        "title": "Radiologia",
+        "riasec_scores": {
+            "R": 4,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 3
+        },
+        "description": "Exames de imagem.",
+        "area": "Saúde"
+    },
+    {
+        "id": "seg_trab",
+        "title": "Segurança do Trabalho",
+        "riasec_scores": {
+            "R": 4,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 2,
+            "C": 5
+        },
+        "description": "Prevenção de acidentes.",
+        "area": "Exatas/Saúde"
+    },
+    {
+        "id": "eng_amb",
+        "title": "Engenharia Ambiental",
+        "riasec_scores": {
+            "R": 4,
+            "I": 5,
+            "A": 1,
+            "S": 2,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Preservação ambiental.",
+        "area": "Exatas"
+    },
+    {
+        "id": "eng_quim",
+        "title": "Engenharia Química",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Processos químicos industriais.",
+        "area": "Exatas"
+    },
+    {
+        "id": "eng_alim",
+        "title": "Engenharia de Alimentos",
+        "riasec_scores": {
+            "R": 3,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 3
+        },
+        "description": "Industrialização de alimentos.",
+        "area": "Exatas"
+    },
+    {
+        "id": "zoo",
+        "title": "Zootecnia",
+        "riasec_scores": {
+            "R": 5,
+            "I": 4,
+            "A": 1,
+            "S": 2,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Produção animal.",
+        "area": "Agrárias"
+    },
+    {
+        "id": "ocean",
+        "title": "Oceanografia",
+        "riasec_scores": {
+            "R": 4,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 1,
+            "C": 2
+        },
+        "description": "Estudo dos oceanos.",
+        "area": "Biológicas/Exatas"
+    },
+    {
+        "id": "geo_amb",
+        "title": "Gestão Ambiental",
+        "riasec_scores": {
+            "R": 3,
+            "I": 4,
+            "A": 1,
+            "S": 3,
+            "E": 3,
+            "C": 3
+        },
+        "description": "Sustentabilidade.",
+        "area": "Biológicas"
+    },
+    {
+        "id": "biblio",
+        "title": "Biblioteconomia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 1,
+            "S": 2,
+            "E": 1,
+            "C": 5
+        },
+        "description": "Gestão da informação.",
+        "area": "Humanas"
+    },
+    {
+        "id": "arq_info",
+        "title": "Arquivologia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 1,
+            "S": 1,
+            "E": 1,
+            "C": 5
+        },
+        "description": "Gestão de documentos.",
+        "area": "Humanas"
+    },
+    {
+        "id": "mus_ter",
+        "title": "Musicoterapia",
+        "riasec_scores": {
+            "R": 1,
+            "I": 3,
+            "A": 5,
+            "S": 5,
+            "E": 2,
+            "C": 1
+        },
+        "description": "Terapia através da música.",
+        "area": "Saúde/Artes"
+    },
+    {
+        "id": "ter_ocu",
+        "title": "Terapia Ocupacional",
+        "riasec_scores": {
+            "R": 2,
+            "I": 3,
+            "A": 2,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Reabilitação para vida diária.",
+        "area": "Saúde"
+    },
+    {
+        "id": "fono",
+        "title": "Fonoaudiologia",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 1,
+            "S": 5,
+            "E": 2,
+            "C": 2
+        },
+        "description": "Distúrbios da comunicação.",
+        "area": "Saúde"
+    },
+    {
+        "id": "rel_pub",
+        "title": "Relações Públicas",
+        "riasec_scores": {
+            "R": 1,
+            "I": 2,
+            "A": 3,
+            "S": 4,
+            "E": 5,
+            "C": 3
+        },
+        "description": "Imagem institucional.",
+        "area": "Comunicação"
+    },
+    {
+        "id": "eventos",
+        "title": "Gestão de Eventos",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 3,
+            "S": 4,
+            "E": 5,
+            "C": 4
+        },
+        "description": "Organização de eventos.",
+        "area": "Negócios"
+    },
+    {
+        "id": "hotel",
+        "title": "Hotelaria",
+        "riasec_scores": {
+            "R": 2,
+            "I": 2,
+            "A": 2,
+            "S": 5,
+            "E": 4,
+            "C": 4
+        },
+        "description": "Gestão hoteleira.",
+        "area": "Negócios"
+    },
+    {
+        "id": "jogos",
+        "title": "Design de Games",
+        "riasec_scores": {
+            "R": 2,
+            "I": 4,
+            "A": 5,
+            "S": 1,
+            "E": 3,
+            "C": 2
+        },
+        "description": "Criação de jogos digitais.",
+        "area": "Tecnologia/Artes"
+    },
+    {
+        "id": "bd",
+        "title": "Banco de Dados",
+        "riasec_scores": {
+            "R": 1,
+            "I": 4,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 5
+        },
+        "description": "Gestão de dados.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "redes",
+        "title": "Redes de Computadores",
+        "riasec_scores": {
+            "R": 3,
+            "I": 4,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 4
+        },
+        "description": "Infraestrutura de TI.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "seg_info",
+        "title": "Segurança da Informação",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 4
+        },
+        "description": "Proteção de dados.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "cienc_dados",
+        "title": "Ciência de Dados",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 3,
+            "C": 4
+        },
+        "description": "Análise de grandes volumes de dados.",
+        "area": "Tecnologia"
+    },
+    {
+        "id": "estat",
+        "title": "Estatística",
+        "riasec_scores": {
+            "R": 1,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 2,
+            "C": 5
+        },
+        "description": "Análise de dados probabilísticos.",
+        "area": "Exatas"
+    },
+    {
+        "id": "mat_ind",
+        "title": "Matemática Industrial",
+        "riasec_scores": {
+            "R": 2,
+            "I": 5,
+            "A": 1,
+            "S": 1,
+            "E": 3,
+            "C": 4
+        },
+        "description": "Matemática aplicada à indústria.",
+        "area": "Exatas"
+    }
+]
