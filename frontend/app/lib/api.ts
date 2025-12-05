@@ -1,6 +1,6 @@
 import { Question, Answer, AssessmentResult } from '../types';
 
-const API_URL = 'http://localhost:8000';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 export async function getQuestions(): Promise<Question[]> {
     const res = await fetch(`${API_URL}/questions`);
